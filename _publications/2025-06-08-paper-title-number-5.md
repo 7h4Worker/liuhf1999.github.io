@@ -9,7 +9,7 @@ venue: 'IEEE Journal of Biomedical and Health Informatics (accepted)'
 paperurl:
 citation: 'H. Liu, Z. Wang, R. Li, X. Zhao, T. Xu, T. Zhou, H. Hu. (2025). &quot;A Novel Binocular-Encoded SSVEP Framework for Efficient VR-Based Brain-Computer Interface.&quot; <i>IEEE Journal of Biomedical and Health Informatics</i>, accepted Oct 23, 2025.'
 header:
-	teaser: jbhi-GA.jpg
+  teaser: jbhi-GA.jpg
 ---
 ![JBHI binocular SSVEP graphical abstract]({{ '/images/jbhi-GA.jpg' | relative_url }})
 

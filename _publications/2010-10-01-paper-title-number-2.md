@@ -10,7 +10,7 @@ slidesurl:
 paperurl: 'https://doi.org/10.1109/EMBC53108.2024.10781783'
 citation: 'H. Liu, Z. Wang, R. Li, et al. (2024). &quot;A Novel SSVEP Modulation Method Utilizing VR-Based Binocular Vision.&quot; In <i>Proc. IEEE EMBC</i>, pp. 1–4.'
 header:
-	teaser: publication_embc1.jpg
+  teaser: publication_embc1.jpg
 ---
 ![EMBC binocular VR SSVEP experiment]({{ '/images/publication_embc1.jpg' | relative_url }})
 
