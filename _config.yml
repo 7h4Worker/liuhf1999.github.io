@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Liu Haifeng"
+title                    : "Liu Haifeng (刘海峰)"
 title_separator          : "-"
-name                     : &name "Liu Haifeng"
+name                     : &name "Liu Haifeng (刘海峰)"
 description              : &description "Liu Haifeng's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://7h4Worker.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "7h4Worker/liuhf1999"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Liu Haifeng"
+  name             : "Liu Haifeng (刘海峰)"
   pronouns         : # example: "she/her"  
   bio              : "VR-oriented BCI researcher focusing on binocular SSVEP paradigms, wearable neural hardware, and perception-compute fused platforms."
   location         : "Shanghai, China"

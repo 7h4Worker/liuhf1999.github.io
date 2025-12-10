@@ -20,9 +20,6 @@ I am a Ph.D. candidate at ShanghaiTech University exploring how VR/AR visual par
 - Co-authored articles in *Frontiers in Neuroscience*, IEEE EMBC, *Moore and More*, and *Exploration*, with a 2025 IEEE JBHI paper accepted.
 - Contributed to two national invention patents covering SSVEP paradigm generation and AR-based brain feedback systems.
 
-## 中文简介
-我来自上海科技大学—中科院联合培养博士项目，长期聚焦于 VR 场景下的 SSVEP 范式、可穿戴脑电硬件与边缘智能解码。在立体视觉脑机接口的研究中，我提出了低频组双目编码策略，搭建多场景 Unity EEG-BCI 平台，并开发可穿戴/FPGA 脑电采集系统，致力于实现感知—算力融合的个人脑机接口平台与脑联网体系。
-
 ## Contact
 - Email: [liuhf728@gmail.com](mailto:liuhf728@gmail.com)
 - GitHub: [7h4Worker](https://github.com/7h4Worker)
