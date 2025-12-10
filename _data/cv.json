@@ -28,13 +28,13 @@
   },
   "work": [
     {
-      "name": "ShanghaiTech University / Chinese Academy of Sciences",
+      "name": "ShanghaiTech University",
       "position": "Ph.D. Candidate, Brain-Computer Interface Researcher",
       "location": "Shanghai, China",
       "website": "https://www.shanghaitech.edu.cn/",
       "startDate": "2021-09",
       "endDate": "",
-      "summary": "Joint Ph.D. program advancing VR-oriented SSVEP paradigms, wearable EEG hardware, and edge intelligence for immersive BCIs.",
+      "summary": "Advancing VR-oriented SSVEP paradigms, wearable EEG hardware, and edge intelligence for immersive BCIs.",
       "highlights": [
         "Designed binocular VR SSVEP paradigms that encode multiple targets with minimal frequencies to improve robustness and comfort.",
         "Built Unity-based multi-scene EEG-BCI platforms and closed-loop VR/AR interaction systems leveraging Hololens and Pico headsets.",
@@ -44,14 +44,14 @@
   ],
   "education": [
     {
-      "institution": "ShanghaiTech University (Joint Ph.D. Program with CAS)",
+      "institution": "ShanghaiTech University",
       "area": "Computer Science and Technology",
       "studyType": "Ph.D. Candidate",
       "startDate": "2021-09",
       "endDate": "2026-07",
       "score": null,
       "courses": [],
-      "summary": "Researching wearable BCI systems, VR/AR neurointerfaces, and perception-compute fused platforms."
+      "summary": "Researching wearable BCI systems, VR/AR neurointerfaces, and perception-compute fused platforms as part of a joint program with the Chinese Academy of Sciences."
     },
     {
       "institution": "Zhejiang University",

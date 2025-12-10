@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Candidate in Computer Science and Technology, ShanghaiTech University / Chinese Academy of Sciences, 2021&nbsp;–&nbsp;present (expected Jul 2026)
+* Ph.D. Candidate in Computer Science and Technology, ShanghaiTech University (joint program with the Chinese Academy of Sciences), 2021&nbsp;–&nbsp;present (expected Jul 2026)
 * B.Eng. in Information Engineering, Zhejiang University, 2017&nbsp;–&nbsp;2021
 
 Research & Engineering Experience

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at ShanghaiTech University (joint program with the Chinese Academy of Sciences) exploring how VR/AR visual paradigms, wearable EEG hardware, and neural decoding co-design next-generation brain–computer interfaces. My recent work delivers binocular SSVEP paradigms that encode more targets with fewer frequencies, Unity-based multi-scene BCI platforms, and scalable FPGA-powered acquisition hardware. I aim to build perception-compute fused personal BCI systems and the broader brain-internet infrastructure around them.
+I am a Ph.D. candidate at ShanghaiTech University exploring how VR/AR visual paradigms, wearable EEG hardware, and neural decoding co-design next-generation brain–computer interfaces. My recent work delivers binocular SSVEP paradigms that encode more targets with fewer frequencies, Unity-based multi-scene BCI platforms, and scalable FPGA-powered acquisition hardware. I aim to build perception-compute fused personal BCI systems and the broader brain-internet infrastructure around them.
 
 ## Research Interests
 - Binocular and VR-oriented SSVEP paradigms for immersive BCIs
