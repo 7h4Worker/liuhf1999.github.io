@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "A Novel Binocular-Encoded SSVEP Framework for Efficient VR-Based Brain-Computer Interface"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2025-jbhi-binocular-ssvep
+excerpt: 'Accepted IEEE JBHI article describing binocular encoding strategies that raise throughput and robustness in VR-oriented BCIs.'
+date: 2025-10-23
+venue: 'IEEE Journal of Biomedical and Health Informatics (accepted)'
+paperurl:
+citation: 'H. Liu, Z. Wang, R. Li, X. Zhao, T. Xu, T. Zhou, H. Hu. (2025). &quot;A Novel Binocular-Encoded SSVEP Framework for Efficient VR-Based Brain-Computer Interface.&quot; <i>IEEE Journal of Biomedical and Health Informatics</i>, accepted Oct 23, 2025.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+We introduce binocular phase-aligned SSVEP encoding that improves information transfer rate and visual comfort when operating VR-based BCIs. The approach maintains robustness under head movement and depth changes, supporting richer multi-target interaction inside immersive environments.

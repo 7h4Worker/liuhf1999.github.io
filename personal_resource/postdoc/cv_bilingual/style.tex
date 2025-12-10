@@ -1,0 +1,37 @@
+\usepackage{geometry}
+\geometry{top=1.5cm,bottom=1.8cm,left=1.6cm,right=1.6cm}
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{array}
+
+\setmainfont{Times New Roman}
+\setsansfont{Arial}
+\setmonofont{Consolas}
+\setCJKmainfont{SimSun}
+
+\definecolor{Primary}{RGB}{0,118,163}
+\definecolor{Accent}{RGB}{190,209,224}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=Primary,
+  urlcolor=Primary
+}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+\setlist[itemize]{leftmargin=1.4em,itemsep=0.3em,topsep=0.2em}
+
+\newcommand{\sectiontitle}[1]{%
+  \vspace{1.2em}%
+  {\Large\bfseries\textcolor{Primary}{#1}}\par
+  \textcolor{Primary}{\rule{\textwidth}{0.8pt}}\vspace{0.3em}
+}
+
+\newcommand{\timeline}[2]{%
+  \textbf{#1}\quad #2\par
+}

@@ -1,0 +1,110 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{geometry}
+\geometry{top=1.5cm,bottom=1.8cm,left=1.6cm,right=1.6cm}
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\setmainfont{Times New Roman}
+\setsansfont{Arial}
+\setmonofont{Consolas}
+\setCJKmainfont{SimSun}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,urlcolor=Primary}
+\usepackage{titlesec}
+
+\definecolor{Primary}{RGB}{0,128,170}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+\setlist[itemize]{leftmargin=1.4em,itemsep=0.2em,topsep=0.2em}
+
+\newcommand{\sectionnote}[2]{%
+  \vspace{1.3em}%
+  {\Large\bfseries\textcolor{Primary}{#1}}\hfill{\small\textcolor{Primary}{#2}}\par
+  \textcolor{Primary}{\rule{\textwidth}{0.9pt}}\vspace{0.4em}}
+
+\begin{document}
+\pagestyle{empty}
+
+\begin{center}
+  {\Huge\bfseries\textcolor{Primary}{HAIFENG LIU}}\\
+\end{center}
+
+\sectionnote{PERSONAL INFORMATION}{（这部分可以把自己的照片放上）}
+\begin{tabular}{@{}p{0.23\textwidth}p{0.27\textwidth}p{0.23\textwidth}p{0.27\textwidth}@{}}
+\textbf{Gender:} Male & \textbf{Birth:} 1998.XX（可更新） & \textbf{Marital Status:} Single（可根据需要补充） &\\
+\textbf{Nationality:} Chinese & \textbf{Email:} \href{mailto:liuhf@shanghaitech.edu.cn}{liuhf@shanghaitech.edu.cn} & \textbf{Address:} 上海市浦东新区张江高科技园区海科路99号 & \textbf{Telephone:} 173-4201-8052
+\end{tabular}
+
+\medskip
+\textbf{Profile:} 面向双目立体视觉特性的脑机接口范式、算法与系统，关注沉浸式 VR/AR 场景下的高效可穿戴 BCI。结合自研 EEG 硬件、FPGA 加速与多模态解码，为下一代脑机交互产品提供从算法到工程的解决方案。
+
+\sectionnote{EDUCATION}{}
+\textbf{Ph.D. Candidate: ShanghaiTech University — 2021.9-Present (Expected graduation: Jul 2026)}\\
+Major in Computer Science and Technology. CAS 联合培养博士生。\\
+Supervised by Prof. Honglin Hu. 研究方向包括 VR/AR 脑机接口、稳态视觉诱发电位（SSVEP）调制、脑对脑接口与多模态信号处理。\\
+PhD Thesis (计划主题): Binocular-encoded VR-BCI Paradigms with Ultra-flexible Acquisition Platforms.\\
+Courses: Neural Signal Processing, Machine Learning, Advanced Virtual Reality Systems.
+
+\medskip
+\textbf{Bachelor Degree: Zhejiang University — 2017.9-2021.7}\\
+Major in Information Engineering. GPA: （可补充）\\
+Final year laboratory project: 融合式脑电采集平台设计与实现。\\
+Courses: 信号与系统、数字电路、嵌入式系统、控制工程等。
+
+\sectionnote{RESEARCH SKILLS}{}
+\textbf{Language Proficiency:} English: passed CET6（620+），具备学术写作与国际会议交流能力。
+
+\textbf{Laboratory Techniques:}\\
+高密度 EEG/EMG/ECG 采集系统设计，ADS1299 / Nordics / ESP32 硬件开发；立体视觉刺激设计；脑信号实验流程与数据质量控制；VR/AR 设备联调；超柔性电极阵列实验。
+
+\textbf{Digital Skills:}\\
+MATLAB、Python（NumPy、SciPy、PyTorch）用于信号处理与深度学习解码；C/C++、C\# 与 Unity 搭建交互系统；FPGA（Xilinx）、Zephyr RTOS、Fusion360 CAD、LabVIEW/Vive Coding 可视化编程等。
+
+\sectionnote{RESEARCH \& PROJECT EXPERIENCES}{}
+\textbf{SariBCI 脑电信号采集系统} \hfill 2022.7--2022.11\\
+基于 ADS1299 打造 24-bit/250--1000 Hz 的高精度可穿戴 EEG 设备，支持 WiFi AP/Station 模式；开发 Unity 双视角 3D 刺激界面与实时分析工具，结合 3D/3D-Blink 范式显著提升 SSVEP 识别率。
+
+\textbf{Hololens 双目 AR-BCI 闭环} \hfill 2023.5--2023.9\\
+搭建面向 Hololens 的 UWP 应用，将 SariBCI 数据流接入 VR/AR 平台；集成 Zigbee 外设控制端，实现脑控多手势交互与移动部署，展示多模态融合能力。
+
+\textbf{多模态多传感器信号采集一体化} \hfill 2024.3--2025.7\\
+整合 EEG/ECG/EMG/IMU 传感终端与上位机协同推理；提出时序+空间特征的在线深度学习模型，并在 FPGA 上部署嵌入式推理，支持低延迟脑机交互。
+
+\textbf{超宽带脑电采集与远程传输系统} \hfill 2024.6--2025.9\\
+设计多通道时域压缩与超宽带高速采集方案，构建低功耗无线脑电平台；完成云端实时传输与管理，实现跨地点脑信号协作实验。
+
+\sectionnote{PUBLICATIONS}{}
+\begin{enumerate}[leftmargin=1.5em,label={[}\arabic*{]}]
+  \item \textbf{H.~Liu}, Z. Wang, R. Li, X. Zhao, T. Xu, T. Zhou, H. Hu, ``A Comparative Study of Stereo-Dependent SSVEP Targets and Their Impact on VR-BCI Performance,'' \textit{Frontiers in Neuroscience}, 18, 1367932, 2024. doi: \href{https://doi.org/10.3389/fnins.2024.1367932}{10.3389/fnins.2024.1367932}
+  \item \textbf{H.~Liu}, Z. Wang, R. Li, et al., ``A Novel SSVEP Modulation Method Utilizing VR-Based Binocular Vision,'' \textit{IEEE EMBC}, 2024, pp.~1--4. doi: \href{https://doi.org/10.1109/EMBC53108.2024.10781783}{10.1109/EMBC53108.2024.10781783}
+  \item \textbf{H.~Liu}, Z. Zhu, Z. Wang, et al., ``Design and Implementation of a Scalable and High-Throughput EEG Acquisition and Analysis System,'' \textit{Moore and More}, 1, 14, 2024. doi: \href{https://doi.org/10.1007/s44275-024-00017-w}{10.1007/s44275-024-00017-w}
+  \item Y. Ye, X. Tian, \textbf{H.~Liu}, et al., ``High-Precision, Low-Threshold Neuromodulation With Ultraflexible Electrode Arrays for Brain-to-Brain Interfaces,'' \textit{Exploration}, e70040, 2025. doi: \href{https://doi.org/10.1002/EXP.70040}{10.1002/EXP.70040}
+  \item A. Li, \textbf{H.~Liu}, et al., ``Enhancing Real-Time Online Motor Imagery BCI Performance: A Co-Adaptive Meta-Learning Approach,'' \textit{IEEE Journal of Biomedical and Health Informatics}, revision in progress. doi: 待定。
+  \item \textbf{H.~Liu}, Z. Wang, R. Li, X. Zhao, T. Xu, T. Zhou, H. Hu, ``A Novel Binocular-Encoded SSVEP Framework for Efficient VR-Based Brain-Computer Interface,'' \textit{IEEE Journal of Biomedical and Health Informatics}, accepted Oct 2025. doi: 待定。
+\end{enumerate}
+
+\textbf{Patents:}\\
+【国家发明专利】胡宏松，\textbf{刘海峰} 等，“基于 SSVEP-ERP 的脑机接口视觉范式生成、检测方法、系统、介质、终端”，CN202310369762.8（已公开）。\\
+【国家发明专利】胡宏松，\textbf{刘海峰} 等，“一种基于增强现实和脑机接口的新型脑反馈系统”，202410293427.9（已初审）。
+
+\sectionnote{CONFERENCE PROCEEDINGS}{}
+\begin{itemize}
+  \item 2024 IEEE Engineering in Medicine and Biology Conference (EMBC), Orlando, USA — Oral presentation on VR-based SSVEP modulation.
+  \item 2023 Shanghai VR/AR Frontier Forum — Poster on binocular BCI fusion architecture.
+\end{itemize}
+
+\sectionnote{SCHOLARSHIPS AND AWARDS}{}
+\begin{itemize}
+  \item 上海科技大学研究生学业奖学金（可补充具体等级与年份）。
+  \item 国家/省部级竞赛或科研奖项（如国家奖学金、三好学生、优秀研究生等，可在此处填写）。
+\end{itemize}
+
+\sectionnote{TEACHING \& VOLUNTEER EXPERIENCES}{}
+\begin{itemize}
+  \item 课程助教经历（如《脑机接口导论》《信号处理》），可写明年份与职责。
+  \item 科研指导或志愿服务：例如脑机接口科普讲座、科技竞赛辅导、社区 STEM 志愿活动等。
+\end{itemize}
+
+\end{document}

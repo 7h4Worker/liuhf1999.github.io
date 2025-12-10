@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Design and Implementation of a Scalable and High-Throughput EEG Acquisition and Analysis System"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2024-scalable-eeg-platform
+excerpt: 'Presents an FPGA-based modular EEG platform that supports high-throughput acquisition and analytics for research and clinical BCIs.'
+date: 2024-05-15
+venue: 'Moore and More'
+slidesurl:
+paperurl: 'https://doi.org/10.1007/s44275-024-00017-w'
+citation: 'H. Liu, Z. Zhu, Z. Wang, et al. (2024). &quot;Design and Implementation of a Scalable and High-Throughput EEG Acquisition and Analysis System.&quot; <i>Moore and More</i>, 1:14.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We engineered a modular EEG acquisition architecture combining FPGA preprocessing, standardized analog front ends, and scalable analytics APIs. The platform supports laboratory studies and clinical deployments that require synchronized high-density recordings with rapid algorithm iteration.

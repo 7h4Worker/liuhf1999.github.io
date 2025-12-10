@@ -2,12 +2,11 @@
 
 Liu Haifeng:
   name        : "Liu Haifeng"
-  uri         : "https://name.com"
+  uri         : "https://7h4Worker.github.io/liuhf1999/"
   email       : "liuhf728@gmail.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  bio         : "VR-BCI researcher focused on binocular SSVEP paradigms, wearable EEG systems, and perception-compute fused platforms."
+  avatar      : "profile.png"
+  location    : "Shanghai, China"
 
 Name2 Name2:
   name        : "Name2 Name2"

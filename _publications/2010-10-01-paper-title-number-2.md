@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "A Novel SSVEP Modulation Method Utilizing VR-Based Binocular Vision"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2024-embc-bimodal-vr-ssvep
+excerpt: 'Introduces dual-view binocular modulation that encodes nine VR targets with just two frequencies for robust SSVEP control.'
+date: 2024-07-01
+venue: 'IEEE Engineering in Medicine and Biology Society (EMBC)'
+slidesurl:
+paperurl: 'https://doi.org/10.1109/EMBC53108.2024.10781783'
+citation: 'H. Liu, Z. Wang, R. Li, et al. (2024). &quot;A Novel SSVEP Modulation Method Utilizing VR-Based Binocular Vision.&quot; In <i>Proc. IEEE EMBC</i>, pp. 1–4.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We encode binocular cues directly into dual-view VR stimuli, reducing the number of driving frequencies while increasing target separability. The resulting paradigm improves recognition accuracy under motion and depth changes, paving the way for practical immersive SSVEP control schemes.
