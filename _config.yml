@@ -23,7 +23,7 @@ repository               : "7h4Worker/liuhf1999"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Liu Haifeng (刘海峰)"
   pronouns         : # example: "she/her"  
   bio              : "VR/AR BCI researcher focusing on binocular SSVEP paradigms, Unity-based EEG platforms, and wearable ear/band EEG systems."

@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "VR SSVEP Drone Control Platform"
+excerpt: "Immersive drone piloting experience powered by SSVEP decoding."
 collection: portfolio
+header:
+	teaser: project_ssvep_drone.jpg
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+![VR SSVEP drone control platform]({{ '/images/project_ssvep_drone.jpg' | relative_url }})
+
+This project integrates VR-rendered SSVEP targets with a quadrotor control stack, allowing pilots to steer and adjust altitude using only brain responses.
+
+- **Focus:** Rapid target selection workflow optimized for immersive displays.
+- **Role:** Led Unity scene design, signal processing pipeline, and ROS bridge to the drone autopilot.
+- **Outcome:** Demonstrated stable outdoor flight at university demos and inspired competition entries.
