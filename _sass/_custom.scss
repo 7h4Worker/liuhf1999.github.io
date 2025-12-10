@@ -81,3 +81,29 @@ p {
   border: 0;
   border-radius: 12px;
 }
+
+.greedy-nav {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.greedy-nav .site-title {
+  padding-right: 1.5rem;
+}
+
+.greedy-nav .visible-links {
+  display: flex !important;
+  align-items: center;
+  margin-left: auto;
+  gap: 1.4rem;
+}
+
+.greedy-nav .visible-links li {
+  display: block !important;
+}
+
+.greedy-nav .visible-links a {
+  margin: 0;
+  padding: 0.5rem 0;
+}

@@ -5,7 +5,7 @@
     "email": "liuhf728@gmail.com",
     "phone": "+86 173 4201 8052",
     "website": "https://7h4Worker.github.io/liuhf1999/",
-    "summary": "Brain-computer interface researcher focusing on binocular-vision SSVEP paradigms, wearable EEG hardware, and VR/AR neurointerfaces to deliver perception-compute fused personal BCI platforms.",
+    "summary": "Ph.D. candidate exploring VR/AR-oriented SSVEP paradigms, Unity-based EEG-BCI platforms, and wearable ear/band EEG prototypes for practical brain-computer interaction.",
     "location": {
       "address": "99 Haike Road, Zhangjiang Hi-Tech Park",
       "postalCode": "",
@@ -34,11 +34,11 @@
       "website": "https://www.shanghaitech.edu.cn/",
       "startDate": "2021-09",
       "endDate": "",
-      "summary": "Advancing VR-oriented SSVEP paradigms, wearable EEG hardware, and edge intelligence for immersive BCIs.",
+      "summary": "Investigating XR-oriented SSVEP paradigms, Unity-based EEG-BCI platforms, and wearable EEG systems for everyday BCI applications.",
       "highlights": [
-        "Designed binocular VR SSVEP paradigms that encode multiple targets with minimal frequencies to improve robustness and comfort.",
-        "Built Unity-based multi-scene EEG-BCI platforms and closed-loop VR/AR interaction systems leveraging Hololens and Pico headsets.",
-        "Developed FPGA and wireless EEG acquisition systems, multimodal sensing terminals, and edge inference pipelines for real-time decoding."
+        "Designed binocular VR/AR SSVEP paradigms enabling few-frequency, multi-target control interfaces.",
+        "Built Unity-based multi-scene EEG-BCI experimental frameworks supporting immersive and collaborative interaction.",
+        "Led development of wearable ear-EEG prototypes and VR-driven multi-user BCI demonstrations, including competition-winning brain-controlled car and robotic arm systems."
       ]
     }
   ],
@@ -66,10 +66,10 @@
   ],
   "skills": [
     {
-      "name": "BCI & Signal Processing",
+      "name": "BCI Paradigms & Algorithms",
       "level": "advanced",
       "keywords": [
-        "VR/AR SSVEP paradigms",
+        "VR/AR SSVEP design",
         "Neural decoding",
         "EEG/EXG analytics",
         "MATLAB",
@@ -77,25 +77,22 @@
       ]
     },
     {
-      "name": "Embedded & Hardware",
+      "name": "Wearable BCI Systems",
       "level": "advanced",
       "keywords": [
-        "FPGA prototyping",
-        "ESP32",
-        "nRF5340",
-        "Wireless EEG systems",
-        "Zephyr RTOS"
+        "Ear-EEG prototypes",
+        "Wireless EEG",
+        "Unity multi-scene platforms",
+        "Brain-controlled AR/VR demos"
       ]
     },
     {
-      "name": "Interactive Systems",
-      "level": "advanced",
+      "name": "Team Leadership & Competitions",
+      "level": "experienced",
       "keywords": [
-        "Unity",
-        "C#",
-        "Hololens",
-        "Pico VR",
-        "3D interface design"
+        "BCI competition coaching",
+        "Collaborative BCI demos",
+        "Cross-disciplinary coordination"
       ]
     }
   ],
@@ -111,19 +108,19 @@
   ],
   "interests": [
     {
-      "name": "Wearable BCI Ecosystems",
+      "name": "Immersive BCI Interaction",
       "keywords": [
-        "Perception-compute fusion",
-        "Brain-internet infrastructure",
-        "Edge intelligence"
+        "XR SSVEP paradigms",
+        "Collaborative VR control",
+        "Information throughput"
       ]
     },
     {
-      "name": "VR/AR Neurointerfaces",
+      "name": "Wearable EEG Futures",
       "keywords": [
-        "Binocular vision",
-        "Immersive interaction",
-        "Multimodal sensing"
+        "Ear-EEG",
+        "Daily-life BCI",
+        "Brain networking"
       ]
     }
   ],
@@ -151,11 +148,11 @@
       "summary": "Presents an FPGA-based modular EEG acquisition platform tailored for lab-grade and clinical BCI deployments."
     },
     {
-      "name": "High-Precision, Low-Threshold Neuromodulation With Ultraflexible Electrode Arrays for Brain-to-Brain Interfaces",
-      "publisher": "Exploration",
-      "releaseDate": "2025-01-01",
-      "website": "https://doi.org/10.1002/EXP.70040",
-      "summary": "Demonstrates ultraflexible electrode arrays enabling precise neuromodulation within brain-to-brain communication pipelines."
+      "name": "Collaborative AR-BCI Demonstrations for Multi-User Neural Interaction",
+      "publisher": "Project Showcase",
+      "releaseDate": "2024-11-20",
+      "website": "",
+      "summary": "AR-assisted multi-user BCI demos combining wearable EEG, shared VR control tasks, and collaborative brain-controlled devices."
     },
     {
       "name": "A Novel Binocular-Encoded SSVEP Framework for Efficient VR-Based Brain-Computer Interface",

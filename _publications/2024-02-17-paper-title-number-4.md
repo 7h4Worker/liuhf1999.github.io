@@ -1,13 +1,13 @@
 ---
-title: "High-Precision, Low-Threshold Neuromodulation With Ultraflexible Electrode Arrays for Brain-to-Brain Interfaces"
+title: "Collaborative AR-BCI Demonstrations for Multi-User Neural Interaction"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-exploration-ultraflexible-neuromodulation
-excerpt: 'Demonstrates ultraflexible electrode arrays that enable precise neuromodulation and brain-to-brain communication pathways.'
-date: 2025-01-15
-venue: 'Exploration'
-paperurl: 'https://doi.org/10.1002/EXP.70040'
-citation: 'Y. Ye, X. Tian, H. Liu, J. Liu, C. Zhou, H. Nie, W. Yu, L. Qin, Z. Zhou, X. Wei, J. Zhao, Z. Wang, M. Li, T. H. Tao, L. Sun. (2025). &quot;High-Precision, Low-Threshold Neuromodulation With Ultraflexible Electrode Arrays for Brain-to-Brain Interfaces.&quot; <i>Exploration</i>, e70040.'
+permalink: /publication/2024-ar-bci-collaboration
+excerpt: 'Showcases AR-assisted multi-user BCI demos including collaborative control tasks and wearable EEG integration.'
+date: 2024-11-20
+venue: 'Project Demo'
+paperurl:
+citation:
 ---
 
-This work integrates ultraflexible electrode arrays with low-threshold neuromodulation hardware to build brain-to-brain communication pipelines. We demonstrate precise stimulation and control experiments that connect human-side BCI commands to rodent locomotion tasks.
+We built AR-guided collaborative BCI demonstrations combining VR interfaces, wearable EEG, and shared control tasks. The prototypes include multi-person AR scenarios and hybrid interaction pipelines that link brain-controlled car, robotic arm, and drone demos.
