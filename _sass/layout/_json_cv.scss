@@ -123,6 +123,45 @@
   margin-bottom: 0.25rem;
 }
 
+/* Publication Image Styles */
+.cv-publication-item {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.cv-publication-image {
+  flex-shrink: 0;
+  width: 200px;
+}
+
+.cv-publication-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.cv-publication-image img:hover {
+  transform: scale(1.05);
+}
+
+.cv-publication-content {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .cv-publication-item {
+    flex-direction: column;
+  }
+
+  .cv-publication-image {
+    width: 100%;
+    max-width: 300px;
+  }
+}
+
 /* Skills Styles */
 .cv-skills {
   display: grid;

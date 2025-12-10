@@ -131,28 +131,32 @@
       "publisher": "Frontiers in Neuroscience",
       "releaseDate": "2024-01-01",
       "website": "https://doi.org/10.3389/fnins.2024.1367932",
-      "summary": "Quantifies how stereo-dependent targets influence accuracy, information transfer rate, and user comfort in VR-based SSVEP BCIs."
+      "summary": "Quantifies how stereo-dependent targets influence accuracy, information transfer rate, and user comfort in VR-based SSVEP BCIs.",
+      "image": "/images/publication_exploration1.jpg"
     },
     {
       "name": "A Novel SSVEP Modulation Method Utilizing VR-Based Binocular Vision",
       "publisher": "IEEE Engineering in Medicine and Biology Society (EMBC)",
       "releaseDate": "2024-07-01",
       "website": "https://doi.org/10.1109/EMBC53108.2024.10781783",
-      "summary": "Introduces dual-view SSVEP modulation that encodes nine VR targets with two frequencies, improving robustness under immersive conditions."
+      "summary": "Introduces dual-view SSVEP modulation that encodes nine VR targets with two frequencies, improving robustness under immersive conditions.",
+      "image": "/images/publication_embc1.jpg"
     },
     {
       "name": "Design and Implementation of a Scalable and High-Throughput EEG Acquisition and Analysis System",
       "publisher": "Moore and More",
       "releaseDate": "2024-05-01",
       "website": "https://doi.org/10.1007/s44275-024-00017-w",
-      "summary": "Presents an FPGA-based modular EEG acquisition platform tailored for lab-grade and clinical BCI deployments."
+      "summary": "Presents an FPGA-based modular EEG acquisition platform tailored for lab-grade and clinical BCI deployments.",
+      "image": "/images/phd_topic.jpg"
     },
     {
       "name": "A Novel Binocular-Encoded SSVEP Framework for Efficient VR-Based Brain-Computer Interface",
       "publisher": "IEEE Journal of Biomedical and Health Informatics",
       "releaseDate": "2025-10-23",
       "website": "",
-      "summary": "Accepted article detailing binocular encoding strategies that enhance throughput and robustness of VR-oriented BCIs."
+      "summary": "Accepted article detailing binocular encoding strategies that enhance throughput and robustness of VR-oriented BCIs.",
+      "image": "/images/jbhi-GA.jpg"
     }
   ],
   "presentations": [],
