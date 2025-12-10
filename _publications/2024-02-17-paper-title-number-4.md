@@ -1,13 +1,12 @@
 ---
-title: "Collaborative AR-BCI Demonstrations for Multi-User Neural Interaction"
+title: "Paper Title Number 4"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-ar-bci-collaboration
-excerpt: 'Showcases AR-assisted multi-user BCI demos including collaborative control tasks and wearable EEG integration.'
-date: 2024-11-20
-venue: 'Project Demo'
+permalink: /publication/2024-paper-title-number-4
+excerpt: 'Update this entry with your publication details.'
+date: 2024-02-17
+venue:
 paperurl:
 citation:
 ---
-
-We built AR-guided collaborative BCI demonstrations combining VR interfaces, wearable EEG, and shared control tasks. The prototypes include multi-person AR scenarios and hybrid interaction pipelines that link brain-controlled car, robotic arm, and drone demos.
+Provide a brief description of the publication here once you have the final title, venue, and citation details.
