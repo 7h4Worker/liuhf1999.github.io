@@ -148,13 +148,6 @@
       "summary": "Presents an FPGA-based modular EEG acquisition platform tailored for lab-grade and clinical BCI deployments."
     },
     {
-      "name": "Collaborative AR-BCI Demonstrations for Multi-User Neural Interaction",
-      "publisher": "Project Showcase",
-      "releaseDate": "2024-11-20",
-      "website": "",
-      "summary": "AR-assisted multi-user BCI demos combining wearable EEG, shared VR control tasks, and collaborative brain-controlled devices."
-    },
-    {
       "name": "A Novel Binocular-Encoded SSVEP Framework for Efficient VR-Based Brain-Computer Interface",
       "publisher": "IEEE Journal of Biomedical and Health Informatics",
       "releaseDate": "2025-10-23",
