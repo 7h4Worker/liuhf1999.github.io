@@ -95,7 +95,7 @@ p {
 .greedy-nav .visible-links {
   display: flex !important;
   align-items: center;
-  margin-left: clamp(1.5rem, 4vw, 3rem);
+  margin-left: 0;
   gap: 1.4rem;
 }
 
