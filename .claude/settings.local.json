@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nAdd image support for publications in CV\n\nThis update enhances the CV page by adding visual support for publications:\n- Added image field to each publication entry in cv.json\n- Modified cv-template.html to display publication images\n- Added responsive CSS styling with hover effects for publication images\n- Images are displayed on the left side of publication entries on desktop, stacked on mobile\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push)",
+      "Bash(git commit:*)",
+      "Bash(timeout 30 git push:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
