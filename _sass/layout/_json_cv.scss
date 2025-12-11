@@ -151,6 +151,18 @@
   flex: 1;
 }
 
+.cv-publication-authors {
+  margin-bottom: 0.5rem;
+  color: var(--global-text-color);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.cv-publication-authors strong {
+  font-weight: 600;
+  color: var(--global-theme-color);
+}
+
 @media (max-width: 768px) {
   .cv-publication-item {
     flex-direction: column;

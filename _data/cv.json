@@ -127,15 +127,17 @@
   "references": [],
   "publications": [
     {
-      "name": "A Comparative Study of Stereo-Dependent SSVEP Targets and Their Impact on VR-BCI Performance",
-      "publisher": "Frontiers in Neuroscience",
-      "releaseDate": "2024-01-01",
-      "website": "https://doi.org/10.3389/fnins.2024.1367932",
-      "summary": "Quantifies how stereo-dependent targets influence accuracy, information transfer rate, and user comfort in VR-based SSVEP BCIs.",
-      "image": "/images/publication_exploration1.jpg"
+      "name": "A Novel Binocular-Encoded SSVEP Framework for Efficient VR-Based Brain-Computer Interface",
+      "authors": "Haifeng Liu, Xingyu Wang, Xiaorong Gao*",
+      "publisher": "IEEE Journal of Biomedical and Health Informatics",
+      "releaseDate": "2025-10-23",
+      "website": "",
+      "summary": "Accepted article detailing binocular encoding strategies that enhance throughput and robustness of VR-oriented BCIs.",
+      "image": "/images/jbhi-GA.jpg"
     },
     {
       "name": "A Novel SSVEP Modulation Method Utilizing VR-Based Binocular Vision",
+      "authors": "Haifeng Liu, Xingyu Wang, Xiaorong Gao*",
       "publisher": "IEEE Engineering in Medicine and Biology Society (EMBC)",
       "releaseDate": "2024-07-01",
       "website": "https://doi.org/10.1109/EMBC53108.2024.10781783",
@@ -144,6 +146,7 @@
     },
     {
       "name": "Design and Implementation of a Scalable and High-Throughput EEG Acquisition and Analysis System",
+      "authors": "Haifeng Liu, Zhengyu Ma, Xingyu Wang*",
       "publisher": "Moore and More",
       "releaseDate": "2024-05-01",
       "website": "https://doi.org/10.1007/s44275-024-00017-w",
@@ -151,12 +154,13 @@
       "image": "/images/phd_topic.jpg"
     },
     {
-      "name": "A Novel Binocular-Encoded SSVEP Framework for Efficient VR-Based Brain-Computer Interface",
-      "publisher": "IEEE Journal of Biomedical and Health Informatics",
-      "releaseDate": "2025-10-23",
-      "website": "",
-      "summary": "Accepted article detailing binocular encoding strategies that enhance throughput and robustness of VR-oriented BCIs.",
-      "image": "/images/jbhi-GA.jpg"
+      "name": "A Comparative Study of Stereo-Dependent SSVEP Targets and Their Impact on VR-BCI Performance",
+      "authors": "Haifeng Liu, Xingyu Wang, Xiaorong Gao*",
+      "publisher": "Frontiers in Neuroscience",
+      "releaseDate": "2024-01-01",
+      "website": "https://doi.org/10.3389/fnins.2024.1367932",
+      "summary": "Quantifies how stereo-dependent targets influence accuracy, information transfer rate, and user comfort in VR-based SSVEP BCIs.",
+      "image": "/images/publication_exploration1.jpg"
     }
   ],
   "presentations": [],
