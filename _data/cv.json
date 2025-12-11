@@ -128,7 +128,7 @@
   "publications": [
     {
       "name": "A Novel Binocular-Encoded SSVEP Framework for Efficient VR-Based Brain-Computer Interface",
-      "authors": "Haifeng Liu, Xingyu Wang, Xiaorong Gao*",
+      "authors": "H. Liu, Z. Wang, R. Li, X. Zhao, T. Xu, T. Zhou, H. Hu",
       "publisher": "IEEE Journal of Biomedical and Health Informatics",
       "releaseDate": "2025-10-23",
       "website": "",
@@ -137,7 +137,7 @@
     },
     {
       "name": "A Novel SSVEP Modulation Method Utilizing VR-Based Binocular Vision",
-      "authors": "Haifeng Liu, Xingyu Wang, Xiaorong Gao*",
+      "authors": "H. Liu, Z. Wang, R. Li, et al.",
       "publisher": "IEEE Engineering in Medicine and Biology Society (EMBC)",
       "releaseDate": "2024-07-01",
       "website": "https://doi.org/10.1109/EMBC53108.2024.10781783",
@@ -146,18 +146,18 @@
     },
     {
       "name": "Design and Implementation of a Scalable and High-Throughput EEG Acquisition and Analysis System",
-      "authors": "Haifeng Liu, Zhengyu Ma, Xingyu Wang*",
+      "authors": "H. Liu, Z. Zhu, Z. Wang, et al.",
       "publisher": "Moore and More",
-      "releaseDate": "2024-05-01",
+      "releaseDate": "2024-05-15",
       "website": "https://doi.org/10.1007/s44275-024-00017-w",
       "summary": "Presents an FPGA-based modular EEG acquisition platform tailored for lab-grade and clinical BCI deployments.",
       "image": "/images/phd_topic.jpg"
     },
     {
       "name": "A Comparative Study of Stereo-Dependent SSVEP Targets and Their Impact on VR-BCI Performance",
-      "authors": "Haifeng Liu, Xingyu Wang, Xiaorong Gao*",
+      "authors": "H. Liu, Z. Wang, R. Li, X. Zhao, T. Xu, T. Zhou, H. Hu",
       "publisher": "Frontiers in Neuroscience",
-      "releaseDate": "2024-01-01",
+      "releaseDate": "2024-05-01",
       "website": "https://doi.org/10.3389/fnins.2024.1367932",
       "summary": "Quantifies how stereo-dependent targets influence accuracy, information transfer rate, and user comfort in VR-based SSVEP BCIs.",
       "image": "/images/publication_exploration1.jpg"
